@@ -1,0 +1,336 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&family=Inter:wght@300;400;500&family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&family=Inter:wght@300;400;500&family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&family=Inter:wght@300;400;500&family=Lacquer&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:100%;
+    height:3000px;
+    background-color: #D9D9D9;
+}
+.listdivision{
+    display: flex;
+    justify-content: space-between;
+}
+.listdivision li{
+    list-style-type:  none;
+    margin-left:190px;
+    margin: 10px 50px;
+    font-family: 'inter';
+}
+.listdivision a{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+    font-weight: bold;
+}
+.mainheaderdivision{
+    display: flex;
+}
+.headercouchly{
+margin-top: 10px;
+color: #EC7A1C;
+margin-right: 460px;
+margin-left: 20px;
+font-family: 'Lacquer',cursive;
+}
+header{
+    background-image: url("lighting.png");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.highlights{
+    color: #EC7A1C !important;
+}
+    .mainfirst1{
+width:750px;
+height:800px;
+background-color: #552626;
+margin-top: 40px;
+    }
+    .mainfirst2{
+        width:750px;
+        height:800px;
+        background-image: url("Rectangle\ 39\ \(1\).png");
+        margin-top: 40px;
+        background-size:cover;
+    }
+            
+.mainfirst{
+    display: flex;
+    
+}
+.bring{
+    text-align: center;
+    color: white;
+    margin-top:50%;
+    margin-bottom:20px;
+    font-size: 32px;
+
+}
+.to{
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.best{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.shopnow{
+    margin-left: 43%;
+    padding: 10px 20px 10px 20px;
+    border:none;
+    color: #EC7A1C;
+    background-color: #753c3c;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.mainsecond{
+    background-image: url("Rectangle\ 43\ \(1\).png");
+    height:1200px;
+    margin-top: 40px;
+}
+.post{
+    text-align: right;
+    color: #ec7a1cf3;
+    margin-right: 320px;
+    padding-top: 40px;
+    font-size: 40px;
+    font-family: 'jomolhari';
+}
+.bold{
+    color:rgba(255, 255, 255, 0.558);
+    font-size: 28px;
+    padding-left:600px;
+    margin-right: 100px;
+    margin-top: 20px;
+    font-family: 'inder';
+}
+.getthelook{
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:20px;
+    padding-right:20px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.362);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-top: 930px;
+    margin-left: 80%;
+    
+}
+.icon{
+    margin-top: 5px;
+    width: 30px;
+    height:30px;
+}
+.mainthird{
+    display: flex;
+
+}
+.subthird1{
+    background-image: url("Rectangle\ 45\ \(1\).png");
+    height:400px;
+    width:30%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+
+}
+.subthird2{
+background-image: url("Rectangle\ 46.png");
+height:400px;
+width:30%;
+background-repeat: no-repeat;
+
+
+}
+.subthird3{
+    
+    height:400px; 
+    width:30%;
+    background-repeat: no-repeat;
+    background-image: url("Rectangle\ 47.png"); 
+}
+.subthird4{
+    background-image: url("Rectangle\ 48.png");
+    height:400px;
+    width:30%;
+    background-repeat: no-repeat;
+}
+.out{
+    padding-top: 360px;
+    padding-left: 50px;
+    margin-top: 20px;
+    font-family: 'lateef';
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.627);
+    
+}
+.table{
+    padding-left: 50px;  
+}
+.shopby{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #EC7A1C;
+}
+.ideas{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #EC7A1C;
+}
+.mainfour{
+width:100%;
+height:500px;
+display: flex;
+justify-content: space-between;
+}
+.subfour1{
+    width:30%;
+    height:570px;
+    background-color: #EC7A1C;
+    object-fit: cover;
+}
+.subfour2{
+    width:30%;
+    height:570px;
+    background-color: #EC7A1C;
+}
+.subfour3{
+    width:30%;
+    height:570px;
+    background-color: #EC7A1C;
+}
+
+.chang1{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.indoor{
+    text-align: center;
+    /* font-size: 24px; */
+    color: white;
+    margin-top: 19px;
+    font-family: 'lateef';
+    font-weight: bold;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.648);
+    color: white;
+    margin-top: 100px;
+}
+.mainfooterone{
+    display: flex;
+   justify-content: space-between;
+    padding: 20px 0px 40px 0px;
+    width: 97%;
+    margin: auto;
+}
+.subfooterone{
+    width: 50%;
+}
+.subfootertwo{
+    width:40%;
+}
+    .joinour{
+        font-size: 24px;
+        margin-left: -8px;
+        font-family: 'inter';
+    }
+    .email{
+        border: none;
+        padding:10px 10px;
+        border-radius: 5px;
+        background-color: #EC7A1C;
+        /* margin-left: 500px; */
+        margin-right: 30px;
+        font-family: 'inter';
+        width:250px;    }
+
+    ::placeholder{
+        color: white;
+        font-family: 'inter';
+    }
+    .subscripe{
+        padding: 10px 15px;
+    margin-left: 20px;
+    color: #EC7A1C;
+    border-radius: 5px;
+    font-family: 'inter';
+    }
+    
+    .mainfootertwo{
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 50px;
+    }
+    .cou{
+        font-family: 'Lacquer', cursive;
+        color: #EC7A1C;
+        margin-bottom: 20px;
+        margin-right: ;
+    }
+
+    .copysubfooterone{
+width: 25%;
+    }
+    .copysubfootertwo{
+        width: 20%;
+    }
+    .copysubfooterfour{
+        width: 20%;
+    }
+    .copysubfooterthree{
+        width: 20%;
+    }
+    .amet{
+        margin-bottom: 25px;
+        font-family: 'inter';
+    }
+
+    .headigs{
+        font-size: 20px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+        font-family: 'inter';
+    }
+    .list{
+        list-style-type: none;
+    }
+    .copyright{
+        padding: 20px 0px;
+        background-color: #EC7A1C;
+        color: white;
+        font-family: 'inter';
+    }
+    .allright{
+        text-align: center;
+        font-size:20px;
+        font-family: 'inter';
+    }
+    li{
+        margin-left: 40px;
+        font-family: 'inter';
+    
+    }
+    .list{
+        margin-bottom: 20px;
+    }
+    @media screen and (max-width:412px){
+        body{
+            width:1500px;
+        }

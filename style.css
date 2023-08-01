@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&family=Inter:wght@300;400;500&family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&family=Inter:wght@300;400;500&family=Lacquer&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:100%;
+    height:3000px;
+    background-color: #D9D9D9;
+}
+.listdivision{
+    display: flex;
+    justify-content: space-between;
+}
+.listdivision li{
+    list-style-type:  none;
+    margin-left:190px;
+    margin: 10px 50px;
+    font-family: 'inter';
+}
+.listdivision a{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+    font-weight: bold;
+}
+.mainheaderdivision{
+    display: flex;
+}
+.headercouchly{
+margin-top: 10px;
+color: #EC7A1C;
+margin-right: 460px;
+margin-left: 20px;
+font-family: 'Lacquer',cursive;
+}
+header{
+    background-image: url("header.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.highlights{
+    color: #EC7A1C !important;
+}
+.mainfirstdiv{
+    margin-top: 30px;
+    text-align: center;
+   
+}
+.subfirstdiv1{
+    color: #EC7A1C;
+
+}
+.subfirstdiv2{
+    font-size: 32px;
+    font-weight: bold;
+    color: #000000c1;
+    margin-bottom: 8px;
+}
+.subfirstdiv3{
+    font-size: 24px;
+    color: #000000cc;
+    margin-bottom: 3px;
+}
+
+
+.mainseconddiv{
+    width: 100%;
+    height: 500px;
+    background-color: #ec7a1cf1;
+    margin-top: 20px;
+}
+.text1{
+text-align: center;
+color: white;
+font-size: 32px;
+margin-bottom: 5px;
+padding-top: 60px;
+font-family: 'inter';
+font-weight: bold;
+}
+.text2{
+    text-align: center;
+    color: white;
+font-size: 32px;   
+margin-bottom: 5px;
+font-family: 'inter';
+font-weight: bold;
+
+}
+.text3{
+    text-align: center;
+    color: white;
+font-size: 32px;
+margin-bottom: 5px;
+font-family: 'inter';
+font-weight: bold;
+
+}
+.discover{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+font-size: 20px;
+padding-top: 10px;
+font-family: 'inter';
+}
+.subseconddiv{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+.subseconddiv1{
+    width:30%;
+    height:500px;
+    background-image: url("Rectangle\ 6\ \(1\).png");
+    background-repeat: no-repeat;
+}
+.subseconddiv2{
+    width:30%;
+    height:500px;
+    background-image: url("Rectangle\ 4.png");
+    background-repeat: no-repeat;
+}
+.subseconddiv3{
+    width:30%;
+    height:500px;
+    background-image: url("Rectangle\ 5\ \(1\).png");
+    background-repeat: no-repeat;
+}
+
+
+.subthirddiv{
+display: flex;
+}
+
+.subthirddiv1{
+    margin-top: 200PX;
+    width: 50%;
+    height: 600PX;
+    background-image: url("Rectangle\ 14.png");
+}
+.thirdtext1{
+    padding-top: 200px;
+    text-align: center;
+    font-size: 42px;
+    font-family: 'Inria Serif';
+    margin-bottom: 15px;
+}
+.thirdtext2{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Inria Serif';
+    margin-bottom: 20px;
+}
+.trynow{
+    color: white;
+    background-color:#EC7A1C;
+    border: none;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 42%;
+    font-weight: bold;
+}
+.subthirddiv2{
+    margin-top: 200PX;
+    width: 50%;
+    height: 600PX;
+    background-image: url("Rectangle\ 13.png");
+    background-repeat: no-repeat;
+
+}
+
+.subdivfour1{
+    width: 100%;
+    height:700px;
+    background-image: url("Rectangle\ 77.png");
+    margin-top: 40px;
+    background-repeat: no-repeat;
+}
+.fourthtext1{
+    text-align: center;
+    padding-top: 20%;
+    color: white;
+    font-size: 42px;
+}
+.learnmore1{
+    color: white;
+    background-color:#EC7A1C;
+    border: none;
+    font-size: 17px;
+margin-top: 20px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 45%;
+    font-weight: bold;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.648);
+    color: white;
+    margin-top: 40px;
+}
+.mainfooterone{
+    display: flex;
+   justify-content: space-between;
+    padding: 20px 0px 40px 0px;
+    width: 97%;
+    margin: auto;
+}
+.subfooterone{
+    width: 50%;
+}
+.subfootertwo{
+    width:40%;
+}
+    .joinour{
+        font-size: 24px;
+        margin-left: -8px;
+        font-family: 'inter';
+    }
+    .email{
+        border: none;
+        padding:10px 10px;
+        border-radius: 5px;
+        background-color: #EC7A1C;
+        /* margin-left: 500px; */
+        margin-right: 30px;
+        font-family: 'inter';
+        width:250px;    }
+
+    ::placeholder{
+        color: white;
+        font-family: 'inter';
+    }
+    .subscripe{
+        padding: 10px 15px;
+    margin-left: 20px;
+    color: #EC7A1C;
+    border-radius: 5px;
+    font-family: 'inter';
+    }
+    
+    .mainfootertwo{
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 50px;
+    }
+    .cou{
+        font-family: 'Lacquer', cursive;
+        color: #EC7A1C;
+        margin-bottom: 20px;
+        
+    }
+
+    .copysubfooterone{
+width: 25%;
+    }
+    .copysubfootertwo{
+        width: 20%;
+    }
+    .copysubfooterfour{
+        width: 20%;
+    }
+    .copysubfooterthree{
+        width: 20%;
+    }
+    .amet{
+        margin-bottom: 25px;
+        font-family: 'inter';
+    }
+
+    .headigs{
+        font-size: 20px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+        font-family: 'inter';
+    }
+    .list{
+        list-style-type: none;
+    }
+    .copyright{
+        padding: 20px 0px;
+        background-color: #EC7A1C;
+        color: white;
+        font-family: 'inter';
+    }
+    .allright{
+        text-align: center;
+        font-size:20px;
+        font-family: 'inter';
+    }
+    li{
+        margin-left: 40px;
+        font-family: 'inter';
+    
+    }
+    .list{
+        margin-bottom: 20px;
+    }
+    @media screen and (max-width:412px){
+        body{
+            width:1500px
+        }
+        
+    
+    }
